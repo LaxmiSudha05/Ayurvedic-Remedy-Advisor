@@ -3,6 +3,5 @@ The "Ayurvedic Remedy Adviser" is a digital web application designed to assist i
 
 Libraries used are
 Transformers
-PyPDF2
-Keras
+PyPDF2 and Keras
 
